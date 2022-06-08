@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Zomato-Clone/static/css/main.d2fa7908.chunk.css",
+    "main.js": "/Zomato-Clone/static/js/main.5371df90.chunk.js",
+    "main.js.map": "/Zomato-Clone/static/js/main.5371df90.chunk.js.map",
+    "runtime-main.js": "/Zomato-Clone/static/js/runtime-main.ad2bdd17.js",
+    "runtime-main.js.map": "/Zomato-Clone/static/js/runtime-main.ad2bdd17.js.map",
+    "static/js/2.7c6101b7.chunk.js": "/Zomato-Clone/static/js/2.7c6101b7.chunk.js",
+    "static/js/2.7c6101b7.chunk.js.map": "/Zomato-Clone/static/js/2.7c6101b7.chunk.js.map",
+    "static/js/3.727f01f9.chunk.js": "/Zomato-Clone/static/js/3.727f01f9.chunk.js",
+    "static/js/3.727f01f9.chunk.js.map": "/Zomato-Clone/static/js/3.727f01f9.chunk.js.map",
+    "index.html": "/Zomato-Clone/index.html",
+    "static/css/main.d2fa7908.chunk.css.map": "/Zomato-Clone/static/css/main.d2fa7908.chunk.css.map",
+    "static/js/2.7c6101b7.chunk.js.LICENSE.txt": "/Zomato-Clone/static/js/2.7c6101b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad2bdd17.js",
+    "static/js/2.7c6101b7.chunk.js",
+    "static/css/main.d2fa7908.chunk.css",
+    "static/js/main.5371df90.chunk.js"
+  ]
+}
